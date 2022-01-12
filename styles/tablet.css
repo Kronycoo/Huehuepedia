@@ -1,0 +1,46 @@
+.barra-navegacion{
+    /* display: flex; */
+    height: 8rem;
+    position: fixed;
+}
+.navegacion-logo {
+    display: flex;
+}
+.nav-opciones {
+    display: none;
+}
+.btn {
+    display: none;
+}
+
+/* Header */
+.img-header img {
+    height: 100vh;
+    width: 100vw;
+}
+
+
+/* Seccion Inicio */
+
+.seccion-inicio__contenido{
+    width: 70%;
+    border: none;
+    background-color: transparent;
+}
+.seccion-inicio__contenido h1{
+    text-align: left;
+}
+.seccion-inicio__contenido p{
+    text-align: justify;
+}
+
+/* Seccion Historia */
+.seccion-historia__slider{
+    align-items: flex-end;
+}
+.container{
+    width: 80%;
+    margin-right: 2rem;
+    border: none;
+    background-color: transparent;
+}
