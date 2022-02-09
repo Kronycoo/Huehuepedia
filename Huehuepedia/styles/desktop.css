@@ -1,0 +1,62 @@
+.navegacion-logo{
+    width: 10rem;
+}
+
+.seccion-inicio__contenido{
+    width: 70%;
+}
+.seccion-inicio__contenido h1{
+    text-align: left;
+    font-size: 3.9rem;
+}
+.seccion-inicio__contenido p{
+    text-align: left;
+    font-size: 1.7rem;
+    line-height: 2rem;
+    padding-right: 10rem;
+}
+
+/* Seccion Historia */
+
+.seccion-historia__slider{
+    align-items: center;
+}
+.container{
+    width: 70%;
+}
+.subtitle{
+    font-size: 4rem;
+}
+.slider__review{
+    font-size: 1.7rem;
+}
+
+
+.seccion-mapa{
+    flex-direction: row;
+}
+.mapaDiv{
+    width: 68%;
+    height: 95vh;
+    margin-left: 1.5rem;
+}
+.municipiosMapa{
+    width: 22%;
+    height: 95vh;
+    justify-content: center;
+}
+.colaboradores{
+    flex-direction: row;
+    height: 45vh;
+}
+.col_colaboradores1 ul li{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+.col_colaboradores2 ul li{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+.img_colaboradores{
+    align-items: flex-end;
+}
